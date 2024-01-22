@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "MultidimensionalProject_SSAS_Gravity_books_DWH", "MultidimensionalProject_SSAS_Gravity_books_DWH\MultidimensionalProject_SSAS_Gravity_books_DWH.dwproj", "{71FA66DA-11BC-45C1-9AE7-8879764318C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71FA66DA-11BC-45C1-9AE7-8879764318C0}.Development|Default.ActiveCfg = Development
+		{71FA66DA-11BC-45C1-9AE7-8879764318C0}.Development|Default.Build.0 = Development
+		{71FA66DA-11BC-45C1-9AE7-8879764318C0}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40210FCC-2F1E-4593-9C36-8502EC717BB6}
+	EndGlobalSection
+EndGlobal
