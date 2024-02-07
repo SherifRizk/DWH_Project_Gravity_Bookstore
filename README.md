@@ -24,7 +24,7 @@ Thrilled to share the progress of my latest project in the ITI DWH course – Mo
    - Currently working on the SSAS project (multidimensional mode), focusing on delivering a user-friendly cube browsing experience.
 
 7. **Tableau Dashboard Creation:**
-   - Am delighted to share the creation of an interactive dashboard using Tableau! 📊🖥️
+   - I am delighted to share the creation of an interactive dashboard using Tableau! 📊🖥️
    - Visualizing key metrics and trends from our 'gravity_books_dwh' Data Warehouse.
 
    [Dashboard Link](https://lnkd.in/dgSw5Mb6)
