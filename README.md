@@ -29,4 +29,4 @@ Thrilled to share the progress of my latest project in the ITI DWH course – Mo
    - I am delighted to share the creation of an interactive dashboard using Tableau! 📊🖥️
    - Visualizing key metrics and trends from our 'gravity_books_dwh' Data Warehouse.
 
-### 🔗 [Dashboard Link](https://lnkd.in/dgSw5Mb6)
+### 🔗 [Dashboard Link]([https://lnkd.in/dgSw5Mb6](https://public.tableau.com/views/GravityBooks_17052750540490/Books?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
