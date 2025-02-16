@@ -18,7 +18,7 @@ Thrilled to share the progress of my latest project in the ITI DWH course – Mo
    - Added a dynamic date dimension, allowing us to track changes over time for a more comprehensive analysis.
 
 5. **SSIS Data Population:**
-   - Crafted a seamless SSIS project, ensuring a smooth transfer of data from 'gravity_books' to our new 'gravity_books_dwh.'
+   - Crafted a seamless SSIS project, ensuring a smooth data transfer from 'gravity_books' to our new 'gravity_books_dwh.'
 
 6. **SSAS Cube Exploration:**
    - Currently working on the SSAS project (multidimensional mode), focusing on delivering a user-friendly cube browsing experience.
@@ -29,7 +29,7 @@ Thrilled to share the progress of my latest project in the ITI DWH course – Mo
 
 ### Gravity Bookstore Dashboard:
 
-   [Gravity Books Image](https://raw.githubusercontent.com/SherifRizk/DWH_Project_Gravity_Bookstore/refs/heads/main/GravityBooks.png)
+   ![Gravity Books Image](https://raw.githubusercontent.com/SherifRizk/DWH_Project_Gravity_Bookstore/dd3cf5288cd1a0145be8c68534ef69ec46c47c69/GravityBooks.png)
 
 
    [Dashboard Link](https://lnkd.in/dgSw5Mb6)
