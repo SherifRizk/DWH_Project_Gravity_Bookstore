@@ -29,7 +29,7 @@ Thrilled to share the progress of my latest project in the ITI DWH course – Mo
 
 ### Gravity Bookstore Dashboard:
 
-   [Gravity Books Image](Gravity Books.png)
+   [Gravity Books Image](GravityBooks.png)
 
 
    [Dashboard Link](https://lnkd.in/dgSw5Mb6)
