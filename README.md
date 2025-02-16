@@ -1,5 +1,7 @@
 # Gravity Bookstore Data Warehouse Project
 
+![Gravity Books Image](https://raw.githubusercontent.com/SherifRizk/DWH_Project_Gravity_Bookstore/main/GravityBooks.png)
+
 Thrilled to share the progress of my latest project in the ITI DWH course – Modeling and Building a Data Warehouse for Gravity Bookstore! 🌐📊
 
 ## Project Milestones:
@@ -27,9 +29,4 @@ Thrilled to share the progress of my latest project in the ITI DWH course – Mo
    - I am delighted to share the creation of an interactive dashboard using Tableau! 📊🖥️
    - Visualizing key metrics and trends from our 'gravity_books_dwh' Data Warehouse.
 
-### Gravity Bookstore Dashboard:
-
-   ![Gravity Books Image](https://raw.githubusercontent.com/SherifRizk/DWH_Project_Gravity_Bookstore/dd3cf5288cd1a0145be8c68534ef69ec46c47c69/GravityBooks.png)
-
-
-   [Dashboard Link](https://lnkd.in/dgSw5Mb6)
+### 🔗 [Dashboard Link](https://lnkd.in/dgSw5Mb6)
